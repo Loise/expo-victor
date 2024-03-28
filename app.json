@@ -1,10 +1,10 @@
 {
   "expo": {
     "experiments": {
-      "baseUrl": "/expo-victor"
+      "baseUrl": "/expo2"
     },
-    "name": "expo-victor",
-    "slug": "expo-victor",
+    "name": "expo2",
+    "slug": "expo2",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
